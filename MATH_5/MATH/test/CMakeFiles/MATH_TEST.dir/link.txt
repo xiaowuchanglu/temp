@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/MATH_TEST.dir/test-double.c.o" -o MATH_TEST   -L/home/xiaobai/MATH_5/MATH  -Wl,-rpath,/home/xiaobai/MATH_5/MATH /home/xiaobai/MATH_5/MATH//libMATH.so 

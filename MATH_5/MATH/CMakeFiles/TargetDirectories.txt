@@ -1,0 +1,3 @@
+/home/xiaobai/MATH_5/MATH/CMakeFiles/MATH.dir
+/home/xiaobai/MATH_5/MATH/CMakeFiles/edit_cache.dir
+/home/xiaobai/MATH_5/MATH/CMakeFiles/rebuild_cache.dir

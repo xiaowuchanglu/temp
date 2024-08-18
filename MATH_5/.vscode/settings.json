@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "math_math.h": "c",
+        "math_fenv.h": "c",
+        "limits.h": "c",
+        "math_private.h": "c",
+        "stdint.h": "c",
+        "float.h": "c",
+        "cmath": "c",
+        "climits": "c",
+        "math.h": "c",
+        "amd64_fpmath.h": "c",
+        "cdefs-compat.h": "c"
+    }
+}
